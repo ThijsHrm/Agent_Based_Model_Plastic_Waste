@@ -1,4 +1,3 @@
-breed [tests test]
 @#$#@#$#@
 GRAPHICS-WINDOW
 210

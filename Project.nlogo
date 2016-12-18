@@ -1,3 +1,5 @@
+breed [o o]
+
 @#$#@#$#@
 GRAPHICS-WINDOW
 210
